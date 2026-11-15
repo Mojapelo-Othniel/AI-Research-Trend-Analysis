@@ -40,4 +40,4 @@ This project develops a prototype system for analysing AI research publications.
 4. Run the notebooks in order, from Question 1 to Question 4.
 
 ## Author
-Add your name here.
+Othniel Fetang Katlego Mojapelo
